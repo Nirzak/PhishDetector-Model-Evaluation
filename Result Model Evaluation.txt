@@ -1,0 +1,47 @@
+Result based on 2nd dataset
+Neural Network (KNN):
+True Positive (TP): 1225 
+False Positive (FP): 61 
+False Negative (FN): 230
+True Negative (TN): 1801
+
+Sensitivity: 84%
+Specificity: 97%
+Rate of False Positive: 3.2%
+Rate of False Negative: 15.8%
+
+The F1 score:  0.9252504495247881
+Accuracy:  91.23%
+runtime = 5.48s
+
+Random Forests:
+True Positive (TP): 1380 
+False Positive (FP): 67 
+False Negative (FN): 75
+True Negative (TN): 1795
+
+Sensitivity: 95%
+Specificity: 96%
+Rate of False Positive: 3.6%
+Rate of False Negative: 5.2%
+
+The F1 score:  0.9619506966773849
+Accuracy:  95.7%
+runtime = 0.12s
+
+SVM (Support Vector Machine):
+True Positive (TP): 904 
+False Positive (FP): 461 
+False Negative (FN): 551
+True Negative (TN): 1401
+
+Sensitivity: 62%
+Specificity: 75%
+Rate of False Positive: 24.8%
+Rate of False Negative: 37.9%
+
+The F1 score:  0.7346617724174096
+Accuracy:  69.5%
+runtime = 22.7s
+
+
